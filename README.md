@@ -1,4 +1,4 @@
-# Frontend Mentor - Stats preview card component
+# Frontend Mentor - Stats Preview Card Component
 
 I learned more about how important is to have more tools to help with the design that you need.
 
